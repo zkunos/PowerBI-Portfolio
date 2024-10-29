@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Country,Region,Segment,JoinDate,CreditLimit,PreferredPayment,Email,Phone
+1,Jennifer Johnson,Spain,Central,Consumer,2023-05-31,50000,PayPal,wrightpaul@example.net,4099938397
+2,Donald Gates,Italy,South,Small Business,2023-04-30,10000,Bank Transfer,lawrencerachel@example.net,793.864.1499
+3,Nancy Brown,Japan,West,Enterprise,2024-10-10,1000,Bank Transfer,herrerarachel@example.com,001-590-979-1744x23833
+4,Andrew Pearson,United States,Central,Corporate,2024-04-18,50000,PayPal,brianbryant@example.org,(326)402-1859
+5,"King, Roberts and Deleon",Italy,South,Consumer,2023-11-12,5000,Credit Card,jonathan50@example.com,(235)329-5569
+6,Tanya King,France,Central,Consumer,2023-11-18,1000,PayPal,wyattwolf@example.net,+1-423-352-7779x583
+7,Raymond Padilla,United Kingdom,East,Consumer,2024-07-07,2000,PayPal,wroberts@example.net,001-554-911-3670x175
+8,Ashley Smith,Canada,West,Small Business,2024-09-28,50000,Bank Transfer,wrightstacey@example.org,839-259-1812
+9,Cory Smith,Brazil,South,Small Business,2024-03-27,1000,PayPal,,001-452-739-3464x935
+10,"Bauer, Jones and Ramirez",Australia,South,Enterprise,2023-10-22,20000,Bank Transfer,wernerrebecca@example.com,(929)589-9127
+11,Mary Jackson,Japan,Central,Small Business,2023-03-02,10000,Bank Transfer,nicolemills@example.net,4944352877
+12,Stewart-Morris,Brazil,South,Corporate,2023-04-30,20000,Bank Transfer,jefferyrodriguez@example.com,300.895.8997
+13,Eric Dickson,Japan,West,Consumer,2023-05-09,10000,PayPal,edward07@example.net,001-606-574-3101x8821
+14,"Martin, Santiago and Johns",France,South,Small Business,2023-10-14,2000,Bank Transfer,yjohnson@example.org,001-582-549-8535x2752
+15,"Werner, Glass and Osborn",Italy,Central,Small Business,2024-02-22,50000,Bank Transfer,vvasquez@example.net,7729387644
+16,Christopher Morrow,Australia,South,Corporate,2022-12-16,20000,PayPal,mooneybetty@example.org,6055412855
+17,Horton and Sons,Brazil,Central,Consumer,2023-10-08,50000,PayPal,waguilar@example.net,001-319-846-1800
+18,"Jones, Davis and Davis",United States,South,Enterprise,2023-11-11,50000,PayPal,heatherperry@example.com,290-352-1777x74057
+19,Tracey Baker,Canada,West,Enterprise,2023-04-16,50000,PayPal,smithsara@example.com,001-751-618-0970x77339
+20,Amanda Williams,United Kingdom,East,Corporate,2024-09-21,5000,PayPal,acollins@example.com,234-313-7244
+21,"Nicholson, Hunt and Lawson",Japan,West,Consumer,2022-12-28,50000,PayPal,bmyers@example.net,256-924-1681
+22,Morse-Morris,France,East,Corporate,2022-11-26,5000,PayPal,,001-739-993-0338
+23,Elizabeth Berry,United Kingdom,East,Enterprise,2024-07-23,1000,Credit Card,,841.995.7372x557
+24,Sandra Miller,Japan,North,Small Business,2023-01-18,1000,Bank Transfer,willisjasmine@example.com,620.631.3198x74087
+25,Johnson PLC,Spain,Central,Small Business,2024-03-31,10000,Credit Card,nhaas@example.org,001-376-411-9510x789
+26,"Thomas, Shaw and Clark",Italy,Central,Enterprise,2023-10-21,20000,Bank Transfer,garrettronald@example.org,509.731.2717x427
+27,Dr. Stephen Perez,Brazil,Central,Enterprise,2023-02-26,20000,Credit Card,tracy54@example.org,
+28,Manuel Murphy,Brazil,South,Corporate,2024-07-14,10000,Credit Card,bwoods@example.com,001-686-730-3786x786
+29,Ryan Weber,United Kingdom,North,Enterprise,2023-05-08,5000,PayPal,thomasrobert@example.org,(585)723-9980x572
+30,Robert Schultz,United States,Central,Consumer,2023-09-27,20000,Credit Card,eguzman@example.org,+1-509-754-7915x19706
+31,Nichols-Austin,Australia,South,Corporate,2024-07-21,1000,Credit Card,mjohnson@example.com,894.973.9378x59650
+32,Wagner and Sons,United States,North,Small Business,2024-06-16,2000,PayPal,garycontreras@example.net,+1-588-548-8916x75837
+33,George-Alvarez,Italy,East,Enterprise,2023-01-16,1000,Bank Transfer,dcampbell@example.net,(868)218-4133x7589
+34,Pope-Johnson,United States,Central,Enterprise,2024-06-14,5000,PayPal,tmolina@example.com,947-600-1001x3259
+35,Janice Vega,Italy,East,Small Business,2023-09-29,5000,Bank Transfer,jhamilton@example.org,001-390-983-0263x165
+36,Rocha-Hernandez,Germany,East,Small Business,2024-02-03,2000,Credit Card,torreslori@example.net,830-706-7769
+37,"Daniel, Davis and Davis",Canada,North,Consumer,2024-06-24,1000,Bank Transfer,johnsonkeith@example.com,641.781.8111x2085
+38,Brandi Clark,Italy,South,Small Business,2024-09-10,50000,PayPal,colleen57@example.org,(928)438-1290x97694
+39,Owens-Miller,Italy,West,Enterprise,2023-06-20,5000,Credit Card,dlewis@example.net,217-732-4338x0827
+40,"Wells, Watson and Mcintosh",Australia,East,Small Business,2023-10-31,1000,Bank Transfer,gilbertanthony@example.org,001-429-228-9432x567
+41,Robinson-Briggs,Brazil,East,Corporate,2024-06-19,1000,PayPal,rrichardson@example.net,(267)965-6925x021
+42,Morris-Rodriguez,United Kingdom,Central,Consumer,2023-06-14,2000,PayPal,laurengarza@example.org,(608)877-8174x8152
+43,Walter Wilcox MD,Japan,Central,Consumer,2024-08-21,2000,Credit Card,jgarcia@example.com,572.952.8370
+44,Peterson Group,France,North,Small Business,2024-10-19,5000,Credit Card,james58@example.org,(470)447-0320
+45,"Brown, Livingston and Rogers",Canada,Central,Small Business,2024-02-15,5000,Credit Card,elizabeth65@example.com,
+46,Andrew Montgomery,Germany,South,Corporate,2023-08-29,2000,PayPal,jamesfry@example.org,+1-439-956-1568x25145
+47,"Doyle, Sanford and Hill",Japan,Central,Corporate,2024-07-03,10000,Credit Card,kimberly61@example.org,+1-240-376-8252x8025
+48,Daniel Wilson,France,East,Corporate,2024-10-06,50000,Bank Transfer,sheilafuller@example.net,774.203.5380x8401
+49,Black-Miller,United Kingdom,South,Small Business,2024-06-11,5000,Bank Transfer,powersshawn@example.org,(542)636-0829
+50,Schwartz Inc,Brazil,South,Corporate,2023-08-18,50000,Bank Transfer,,6325257754
+51,Shawn Sanchez,Spain,Central,Corporate,2024-01-29,50000,Credit Card,christine22@example.org,845-266-0049x4026
+52,Brianna Kirby,Canada,West,Corporate,2023-04-04,10000,Credit Card,vsmith@example.net,(710)784-7377
+53,"Henderson, Werner and Porter",Canada,Central,Enterprise,2022-11-09,20000,PayPal,tina42@example.org,231-321-7635
+54,Burns LLC,Japan,North,Consumer,2024-07-10,1000,Bank Transfer,timothy85@example.net,3005763076
+55,Charles Green,United Kingdom,Central,Enterprise,2023-11-13,5000,Bank Transfer,ralph94@example.net,594-375-8259x9125
+56,James Powers,Canada,Central,Consumer,2023-08-04,20000,PayPal,cynthiahardin@example.com,(269)758-5302x2537
+57,April Nunez,Japan,Central,Small Business,2023-11-06,20000,Bank Transfer,rosemartin@example.com,543-250-0667
+58,Gallagher-Carson,Spain,South,Enterprise,2024-08-11,10000,PayPal,taylorrivera@example.org,(282)224-4380
+59,"Acevedo, Hawkins and Myers",Italy,West,Small Business,2022-12-18,1000,Credit Card,smithsteven@example.net,+1-510-280-5486x779
+60,Brian Cox,Australia,North,Small Business,2024-02-06,50000,Bank Transfer,adam73@example.net,+1-738-221-3616x76441
+61,Mcintosh-Daniels,Japan,Central,Consumer,2022-12-27,5000,PayPal,rrussell@example.net,001-967-915-6824x93141
+62,"Perez, Koch and Lee",Spain,West,Small Business,2024-08-13,50000,Bank Transfer,rholloway@example.com,(451)490-8172x15396
+63,Mclean Group,Japan,South,Enterprise,2023-03-29,20000,Credit Card,arose@example.net,6514450167
+64,"Murphy, Graham and Lindsey",Germany,Central,Enterprise,2023-06-16,1000,Bank Transfer,alexissnyder@example.net,+1-706-733-3547x39980
+65,Logan Collins,France,South,Corporate,2023-07-20,2000,Credit Card,imartin@example.net,7754106423
+66,"Hernandez, Brown and Collins",Brazil,East,Consumer,2024-06-16,20000,Bank Transfer,matthew79@example.net,001-470-268-1566x53170
+67,Amanda Mccoy,Brazil,East,Consumer,2023-09-09,5000,Credit Card,tobrien@example.com,859-639-7864
+68,Debra Thomas,France,West,Consumer,2022-11-02,2000,Bank Transfer,christinemaldonado@example.net,349-838-7826
+69,David Mason,Australia,South,Corporate,2023-11-03,2000,PayPal,gmartin@example.org,(339)797-0148x268
+70,Christopher Weber,Canada,North,Enterprise,2023-06-15,50000,PayPal,trevoryoung@example.org,481-784-7118x0641
+71,Deborah Crawford,United States,West,Corporate,2023-10-03,2000,Bank Transfer,larry07@example.org,989.589.5100
+72,King Inc,Australia,Central,Small Business,2023-10-30,5000,Bank Transfer,briancurry@example.net,952.812.5695x182
+73,"Williams, Montes and Alexander",United Kingdom,North,Small Business,2022-12-19,10000,PayPal,joshua00@example.net,771-911-9521
+74,Penny Wilson,France,West,Enterprise,2023-10-02,20000,Credit Card,smithcatherine@example.net,673-883-7901
+75,Mandy Sherman,United States,South,Corporate,2023-08-16,10000,Credit Card,aaronjohnson@example.net,
+76,Cory Small,France,West,Enterprise,2023-10-12,20000,PayPal,brittany54@example.org,852.639.0476
+77,"Graham, Munoz and Burns",United Kingdom,West,Small Business,2023-05-02,50000,Credit Card,hansenjacob@example.org,748-865-3627
+78,Sharon Harris,Australia,East,Corporate,2023-09-13,1000,Credit Card,kylemoore@example.com,+1-232-367-2703x91010
+79,"Yoder, Mills and Lynn",United Kingdom,West,Small Business,2023-09-23,1000,Credit Card,johnsonanna@example.org,
+80,Stevens-Johnson,Australia,Central,Corporate,2023-10-12,20000,Credit Card,james61@example.net,777.837.3377
+81,Rebecca Hopkins,Germany,Central,Enterprise,2024-01-08,2000,PayPal,gsmith@example.net,350.629.2015x32544
+82,"Stokes, Mcpherson and Simpson",United Kingdom,West,Small Business,2024-06-22,50000,Bank Transfer,moranronnie@example.org,+1-947-765-9803x0450
+83,David Thompson,Germany,North,Corporate,2024-07-11,1000,Bank Transfer,qgreen@example.com,+1-953-587-0479x14345
+84,Thomas Group,Italy,North,Small Business,2024-07-29,5000,PayPal,uneal@example.org,812.969.5041
+85,Bryan Johnson,France,Central,Enterprise,2024-01-31,20000,PayPal,johngarcia@example.org,270.727.4079
+86,Sandoval-Brewer,Germany,North,Enterprise,2024-02-08,10000,PayPal,bridgesheather@example.com,7455132561
+87,Noah Arnold,Germany,East,Enterprise,2023-10-22,2000,Credit Card,phillipsjennifer@example.org,4509621372
+88,April Graham,Australia,East,Consumer,2023-04-29,5000,Bank Transfer,paulpatel@example.net,892-250-9423
+89,Pamela Thomas,Germany,Central,Enterprise,2023-06-25,1000,Bank Transfer,alexa25@example.org,(439)917-0957
+90,Cook LLC,Brazil,Central,Enterprise,2023-02-25,20000,Bank Transfer,gutierrezevelyn@example.org,+1-430-546-6187
+91,Colleen Velasquez,Germany,South,Consumer,2024-03-29,5000,PayPal,david65@example.net,760-319-5389x78196
+92,Paul Inc,Spain,North,Consumer,2024-02-27,5000,Credit Card,simsmary@example.org,
+93,Daniel Allen,Brazil,North,Consumer,2023-03-19,20000,Credit Card,mendozadaniel@example.com,001-951-201-7024x07542
+94,Melissa David,Germany,Central,Small Business,2023-03-26,20000,Bank Transfer,jeffrey17@example.org,(286)839-9973
+95,"Dennis, Clark and Frank",Japan,West,Corporate,2023-10-29,5000,PayPal,,001-824-743-7904x013
+96,Justin Schroeder,Japan,North,Corporate,2023-09-02,2000,Credit Card,scottandrade@example.net,971-586-2396
+97,Troy Wilson,Japan,East,Corporate,2022-11-03,1000,Credit Card,kmartin@example.org,771.431.8232
+98,Rebecca Serrano,United Kingdom,South,Corporate,2024-06-14,1000,Bank Transfer,lmcdonald@example.org,(894)868-7542x305
+99,"Kirby, James and Buckley",France,North,Enterprise,2023-05-26,5000,Bank Transfer,tammy14@example.org,+1-425-846-3736x072
+100,Sara Davis,United States,West,Consumer,2024-05-15,20000,Credit Card,reesetiffany@example.org,(851)446-8332
